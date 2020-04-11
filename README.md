@@ -1,1 +1,1 @@
-# goit-js-homeworks.git
+# goit-js-homeworks
