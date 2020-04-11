@@ -1,1 +1,1 @@
-# goit-js-hw
+# goit-js-homeworks.git
