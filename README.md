@@ -1,1 +1,1 @@
-# goit-js-homeworks
+# goit-js-hom
